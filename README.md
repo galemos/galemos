@@ -18,6 +18,9 @@
 ---
 
 <h2> 👨🏻‍💻 &nbsp;Um pouco sobre mim</h2>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galemos" alt="galemos" /></a> </p>
+<br>
 
 ```yaml
 name: Gabriel Lemos
@@ -58,7 +61,7 @@ company: BTG Pactual
 
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galemos" alt="galemos" /></a> </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
