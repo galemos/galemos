@@ -58,9 +58,7 @@ company: BTG Pactual
 
 </p>
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galemos)](https://github.com/galemos/github-readme-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/galemos/blob/output/github-contribution-grid-snake.svg)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galemos" alt="galemos" /></a> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
