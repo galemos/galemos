@@ -58,7 +58,7 @@ company: BTG Pactual
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galemos)](https://github.com/galemos/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=galemos)](https://github.com/galemos/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/galemos/blob/output/github-contribution-grid-snake.svg)
 
