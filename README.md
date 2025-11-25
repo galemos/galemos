@@ -61,7 +61,11 @@ company: BTG Pactual
 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galemos&show_icons=true&locale=en&layout=compact" alt="galemos" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galemos&show_icons=true&locale=en" alt="galemos" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=galemos&" alt="galemos" /></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
